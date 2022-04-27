@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laurus96
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on videogame project
 - 📫 How to reach me 
 
